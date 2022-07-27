@@ -1,4 +1,4 @@
-## Olá, me chamo Leon Nascimento Moreira, e estou iniciando a carreira em programação
+## Olá, me chamo Leon Nascimento Moreira, sou desenvolvedor Front-End
 <div align="center">
   <a href="https://github.com/LeonMoreira112">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonMoreira112&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
